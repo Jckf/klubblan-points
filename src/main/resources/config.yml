@@ -1,0 +1,9 @@
+# Remove join messages.
+silent_join:
+  op: true
+  everyone: false
+
+# Isolate players in separate worlds.
+# Valid options are: normal, nether, the_end
+isolate_environments:
+  - normal
